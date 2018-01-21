@@ -21,6 +21,8 @@
   },
   "devDependencies": {
     "express": "^4.16.2",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
     "webpack": "^3.10.0"
   }
 }
