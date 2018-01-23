@@ -1,11 +1,11 @@
 import React from 'react';
 import {render} from 'react-dom';
 
-import './src/client/app/main.scss';
+import 'sass/main.scss';
 
 class Title extends React.Component {
   render () {
-    return <h1>{this.props.title}</h1>
+    return <h1>{this.props.title}</h1>;
   }
 }
 
